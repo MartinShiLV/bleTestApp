@@ -1,6 +1,6 @@
 import pandas as pd 
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 df = pd.read_csv('test3.csv',header=0)
 lap_times = np.array([])
@@ -14,10 +14,15 @@ for row in df.itertuples():
             lap_times=np.append(lap_times,time_elapsed)
         
 # print(lap_times)
-x_axis = np.arange(len(lap_times))
-y_axis = lap_times
-plt.plot(x_axis,y_axis)
-plt.show()
+# x_axis = np.arange(len(lap_times))
+# y_axis = lap_times
+# plt.plot(x_axis,y_axis)
+# plt.show()
+df_out = pd.DataFrame(lap_times.T)
+# print(df_out)
+df_out.to_csv('test3_time.csv')
+
+
  
 
 
