@@ -1,0 +1,2823 @@
+Discovery started
+[[0;93mCHG[0m] Controller 9C:B6:D0:C0:E4:2E Discovering: yes
+[[0;92mNEW[0m] Device 5A:9A:C6:FF:3A:53 5A-9A-C6-FF-3A-53
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;92mNEW[0m] Device 7D:F0:5F:2F:5B:71 7D-F0-5F-2F-5B-71
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 TxPower: 3
+[[0;92mNEW[0m] Device 7A:EE:AC:C1:91:06 7A-EE-AC-C1-91-06
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;92mNEW[0m] Device 44:73:D6:97:54:4F Camera
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -37
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B ManufacturerData Key: 0x012d
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B ManufacturerData Value:
+  df 76 2b 7d cc 98 8b c1 d9 4b 00 00 00 00 00 00  .v+}.....K......
+  00 00                                            ..              
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -44
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 08 28 5a e5 f2 0b fd f3 dd 93 d7 07 87 60  ...(Z..........`
+  10 06 46 1d 63 18 a0 58                          ..F.c..X        
+[[0;92mNEW[0m] Device 02:55:83:43:EE:84 02-55-83-43-EE-84
+[[0;92mNEW[0m] Device AC:D5:64:6A:31:F4 TV 1
+[[0;92mNEW[0m] Device 76:87:A5:93:50:BD 76-87-A5-93-50-BD
+[[0;92mNEW[0m] Device 56:F2:CC:E7:97:02 56-F2-CC-E7-97-02
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -84
+[[0;92mNEW[0m] Device 77:04:99:7D:77:02 77-04-99-7D-77-02
+[[0;92mNEW[0m] Device DD:0B:8E:5A:C5:2F Nix Spectro 2
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E TxPower: 3
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E Name: CO_IOT_V2
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E Alias: CO_IOT_V2
+[[0;92mNEW[0m] Device 55:4E:A7:A2:B9:43 55-4E-A7-A2-B9-43
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -85
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device F0:B3:EC:73:67:28 F0-B3-EC-73-67-28
+[[0;92mNEW[0m] Device 88:3F:4A:D9:76:B0 Nix Pro 2
+[[0;92mNEW[0m] Device 48:70:1E:79:B5:C2 Nix Pro 2
+[[0;92mNEW[0m] Device 15:8E:6C:54:4C:AA 15-8E-6C-54-4C-AA
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 75:62:42:95:15:36 75-62-42-95-15-36
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device CF:16:E6:C5:F4:04 Nix Mini 3
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -44
+[[0;92mNEW[0m] Device 41:25:19:BF:A9:58 41-25-19-BF-A9-58
+[[0;92mNEW[0m] Device 72:AD:2A:CE:35:B8 72-AD-2A-CE-35-B8
+[[0;92mNEW[0m] Device 52:78:55:CC:1C:08 52-78-55-CC-1C-08
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -88
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: cbbfe0e2-f7f3-4206-84e0-84cbb3d09dfc
+[[0;92mNEW[0m] Device 6A:49:EE:30:92:5E 6A-49-EE-30-92-5E
+[[0;92mNEW[0m] Device C6:65:16:DC:DF:CE C6-65-16-DC-DF-CE
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -40
+[[0;92mNEW[0m] Device E8:5A:8B:88:84:9A E8-5A-8B-88-84-9A
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 08 29 5a 33 4f 18 19 65 ff c1 1a 8d 2a bb  ...)Z3O..e....*.
+  10 06 4a 1d 63 18 a0 58                          ..J.c..X        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -49
+[[0;92mNEW[0m] Device E0:93:21:95:F0:2C Nix Spectro 2
+[[0;92mNEW[0m] Device E6:40:47:47:E7:67 Nix Mini 3
+[[0;92mNEW[0m] Device E2:91:E3:68:B3:AE Nix Spectro 2
+[[0;92mNEW[0m] Device 58:C1:B3:BD:C8:64 58-C1-B3-BD-C8-64
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -74
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 TxPower: 10
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: cbbfe0e2-f7f3-4206-84e0-84cbb3d09dfc
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: 0000110a-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 UUIDs: 00001200-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x000f
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  00 01 64                                         ..d             
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 08 2a 5a 31 57 31 86 6c 64 9e 54 8c 56 25  ...*Z1W1.ld.T.V%
+  10 06 4a 1d 63 18 a0 08                          ..J.c...        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -87
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x000f
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  00 01 64                                         ..d             
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x012d
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  02 00 01 10 49 da 6f d2 be 6a 4a b7 9c 42 fd 71  ....I.o..jJ..B.q
+  2d 69 28 3c 93 e3 17 f2 01 b3                    -i(<......      
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -55
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -73
+[[0;92mNEW[0m] Device FB:EE:AA:BB:A2:C4 Nix Spectro 2
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A Name: Redmi
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A Alias: Redmi
+[[0;93mCHG[0m] Device 58:C1:B3:BD:C8:64 RSSI: -54
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -52
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -78
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -54
+[[0;92mNEW[0m] Device C0:B5:E0:48:D6:18 Nix Spectro 2
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 08 2a 5a 31 57 31 86 6c 64 9e 54 8c 56 25  ...*Z1W1.ld.T.V%
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x000f
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  00 01 64                                         ..d             
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x012d
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  02 00 01 10 49 da 6f d2 be 6a 4a b7 9c 42 fd 71  ....I.o..jJ..B.q
+  2d 69 28 3c 93 e3 17 f2 01 b3                    -i(<......      
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 ManufacturerData Value:
+  02 15 50 76 5c b7 d9 ea 4e 21 99 a4 fa 87 96 13  ..Pv\...N!......
+  a4 92 64 29 4c fa ce                             ..d)L..         
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 82 86 d8 51 e7 4a 45 be 4e 8d d4 18 8f  ......Q.JE.N....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 82 86 d8 51 e7 4a 45 be 4e 8d d4 18 8f  ......Q.JE.N....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -69
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -41
+[[0;92mNEW[0m] Device E0:F1:A5:1C:9D:B5 Nix Spectro 2
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 08 2a 5a 31 57 31 86 6c 64 9e 54 8c 56 25  ...*Z1W1.ld.T.V%
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -98
+[[0;93mCHG[0m] Device 58:C1:B3:BD:C8:64 RSSI: -45
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -53
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 08 2b 5a 1b 78 a8 ef 5e 41 f4 f6 0b d3 72  ...+Z.x..^A....r
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -53
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 08 2b 5a 1b 78 a8 ef 5e 41 f4 f6 0b d3 72  ...+Z.x..^A....r
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -43
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -43
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -54
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 83 86 ce e5 99 06 0e 6b d5 fd 5f 1a 6d  ..........k.._.m
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -43
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -51
+[[0;92mNEW[0m] Device DC:AA:1F:52:06:48 Nix Spectro 2
+[[0;92mNEW[0m] Device 53:B0:52:44:A2:4E 53-B0-52-44-A2-4E
+[[0;93mCHG[0m] Device 58:C1:B3:BD:C8:64 RSSI: -54
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -42
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 RSSI: -80
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 d3 f7 5e c9 74 1d a9 26 8f 22 c6 8b 45  .....^.t..&."..E
+  10 06 48 1d 1e 6a 8d 38                          ..H..j.8        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;92mNEW[0m] Device C4:66:7A:5B:DB:1E Nix Spectro 2
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 83 86 ce e5 99 06 0e 6b d5 fd 5f 1a 6d  ..........k.._.m
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 08 2c 5a 1a b6 6f 20 a7 40 9e 4c 66 7d ad  ...,Z..o .@.Lf}.
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -80
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 08 2c 5a 1a b6 6f 20 a7 40 9e 4c 66 7d ad  ...,Z..o .@.Lf}.
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -45
+[[0;92mNEW[0m] Device 6F:F9:5A:1E:13:BF 6F-F9-5A-1E-13-BF
+[[0;92mNEW[0m] Device 75:90:CB:CB:25:38 75-90-CB-CB-25-38
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 58:C1:B3:BD:C8:64 RSSI: -44
+[[0;92mNEW[0m] Device 48:70:1E:8B:6E:B0 Nix Mini 2
+[[0;92mNEW[0m] Device 1C:BF:C0:8B:FA:B0 DESKTOP-HA4D91I
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 48:70:1E:46:B0:26 Nix Mini 2
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -55
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  10 06 48 1d 1e 6a 8d 38                          ..H..j.8        
+[[0;92mNEW[0m] Device 7A:6D:DC:6B:25:94 7A-6D-DC-6B-25-94
+[[0;93mCHG[0m] Device C6:65:16:DC:DF:CE UUIDs: 0000fe78-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device C6:65:16:DC:DF:CE ManufacturerData Key: 0x0065
+[[0;93mCHG[0m] Device C6:65:16:DC:DF:CE ManufacturerData Value:
+  01 c9 02                                         ...             
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -71
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Value:
+  0c 0e 00 ee cf 06 68 b2 89 50 3b 97 db 69 f8 df  ......h..P;..i..
+  10 05 50 1c 5d f9 e8                             ..P.]..         
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 30 5a 50 67 f2 f4 27 85 2c 53 aa 6f b0  ...0ZPg..'.,S.o.
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 30 5a 50 67 f2 f4 27 85 2c 53 aa 6f b0  ...0ZPg..'.,S.o.
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: 20
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 31 5a b2 9d 28 a8 fe 04 83 96 99 ea 5e  ...1Z..(.......^
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 31 5a b2 9d 28 a8 fe 04 83 96 99 ea 5e  ...1Z..(.......^
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -68
+[[0;92mNEW[0m] Device CC:0E:95:0A:D9:2E Nix Spectro 2
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 32 5a 2f cf 86 fc 7f a5 8f ea 4a d3 fb  ...2Z/.......J..
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 32 5a 2f cf 86 fc 7f a5 8f ea 4a d3 fb  ...2Z/.......J..
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -72
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Value:
+  0c 0e 00 ef cf 0d 01 80 1a 51 30 ae 07 3d 48 1b  .........Q0..=H.
+  10 05 11 1c 5d f9 e8                             ....]..         
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 6F:DB:E8:09:38:07 6F-DB-E8-09-38-07
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -62
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -75
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -89
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -53
+[[0;92mNEW[0m] Device D0:C0:BF:B3:B5:2F Yehua BFB3B52E
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -80
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -53
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 84 86 2c cc ef 32 1d 9a 61 47 8a 50 1a  .....,..2..aG.P.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -45
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -89
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 84 86 2c cc ef 32 1d 9a 61 47 8a 50 1a  .....,..2..aG.P.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -56
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -81
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 TxPower: 10
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000110a-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000110b-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000111f-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 1C:BF:C0:8B:FA:B0 UUIDs: 0000111e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -72
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -43
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 85 86 f5 1d a5 c9 fb 83 36 6b 90 c1 3c  ...........6k..<
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 ManufacturerData Value:
+  10 06 11 1e 5d f9 e8 33                          ....]..3        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 85 86 f5 1d a5 c9 fb 83 36 6b 90 c1 3c  ...........6k..<
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -74
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -75
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -80
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  0f 02 00 00 10 07 40 1f 09 46 41 ad b8           ......@..FA..   
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 RSSI: -88
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;92mNEW[0m] Device 5E:E0:FB:62:06:4D 5E-E0-FB-62-06-4D
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -72
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -65
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 36 5a ad 84 96 21 69 57 2c fd c4 0c d8  ...6Z...!iW,....
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -44
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 36 5a ad 84 96 21 69 57 2c fd c4 0c d8  ...6Z...!iW,....
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -60
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 37 5a df f5 7b 4c 83 00 1d 13 8b 89 00  ...7Z..{L.......
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 52 1f 2e 6c ec 44 68                       ..R..l.Dh       
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -57
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -85
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  10 07 08 1f 09 46 41 ad 48                       .....FA.H       
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -72
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 38 5a ef 91 53 ca 4e 20 d4 d7 ab 81 23  ...8Z..S.N ....#
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 d4 f7 19 96 cc 9a 7c 13 83 24 35 91 8e  .........|..$5..
+  10 06 44 1d 1e 6a 8d 68                          ..D..j.h        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  0c 0e 00 f9 03 59 af 01 be 7d 9b 48 94 22 a7 f9  .....Y...}.H."..
+  10 06 5e 1d 2e 6c ec 08                          ..^..l..        
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -63
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 39 5a f9 b4 e2 d0 d1 5b e5 6b 85 7c fe  ...9Z.....[.k.|.
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 3a 5a de b9 d1 23 50 79 9c dd 28 a7 6f  ...:Z...#Py..(.o
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -72
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 3b 5a 25 62 d9 f1 c4 6f 66 3a bf 27 25  ...;Z%b...of:.'%
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -52
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -54
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -44
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  0c 0e 00 f9 03 59 af 01 be 7d 9b 48 94 22 a7 f9  .....Y...}.H."..
+  10 06 5e 1d 2e 6c ec 18                          ..^..l..        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -73
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -45
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 86 86 de 88 cb 34 37 1d 8a 88 52 a9 a7  ........47...R..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -72
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -55
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -84
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 d8 f7 2d 09 05 58 61 65 e7 b8 54 b4 36  .....-..Xae..T.6
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 87 86 f2 6a 32 a8 22 9a 68 0d f1 55 d5  ......j2.".h..U.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -86
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;92mNEW[0m] Device 7A:FE:03:00:40:97 7A-FE-03-00-40-97
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -53
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -57
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -56
+[[0;93mCHG[0m] Device 88:3F:4A:F4:E1:FA RSSI: -91
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -47
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 3c 5a cb 50 6b d5 74 13 fb 48 1b bf 82  ...<Z.Pk.t..H...
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 4c c8 f0 92 58 f4 10 88 d4 4b 3c 58 f4  ...L...X....K<X.
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -45
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 3c 5a cb 50 6b d5 74 13 fb 48 1b bf 82  ...<Z.Pk.t..H...
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -74
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 3d 5a e2 ae a9 72 5b 9f 58 04 58 f4 28  ...=Z...r[.X.X.(
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 3d 5a e2 ae a9 72 5b 9f 58 04 58 f4 28  ...=Z...r[.X.X.(
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 4d c8 c3 3f eb ff a8 36 2f 80 55 19 7d  ...M..?...6/.U.}
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -58
+[[0;93mCHG[0m] Device 15:8E:6C:54:4C:AA RSSI: -44
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 87 86 f2 6a 32 a8 22 9a 68 0d f1 55 d5  ......j2.".h..U.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -65
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -55
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -72
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -55
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -57
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 52 c8 be b6 2a de 0a f3 7c b0 d9 c4 e8  ...R...*...|....
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 89 86 b1 ce de 13 f0 85 14 50 df 7e a2  ............P.~.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;92mNEW[0m] Device 88:66:5A:31:7B:BB 88-66-5A-31-7B-BB
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -49
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -80
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -45
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -58
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 89 86 b1 ce de 13 f0 85 14 50 df 7e a2  ............P.~.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -56
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 8a 86 01 18 03 d5 d6 26 8b a0 f8 c4 dd  ..........&.....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 8a 86 01 18 03 d5 d6 26 8b a0 f8 c4 dd  ..........&.....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -41
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -58
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0f 05 a0 33 1e 6a 8d 0c 0e 00 da f7 f0 27 52 7a  ...3.j.......'Rz
+  62 c1 3f 82 ab 39 45                             b.?..9E         
+[[0;92mNEW[0m] Device 79:2B:83:0D:90:A3 79-2B-83-0D-90-A3
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -45
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -53
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -94
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 8c 86 00 37 d9 67 c0 d3 37 d0 d0 fe d8  ......7.g..7....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 8c 86 00 37 d9 67 c0 d3 37 d0 d0 fe d8  ......7.g..7....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -62
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -59
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -63
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -51
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD RSSI: -44
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 30:45:11:6A:8A:DA Nix Pro 2
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 6F:E7:88:18:ED:F7 6F-E7-88-18-ED-F7
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -60
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -66
+[[0;93mCHG[0m] Device 88:66:5A:31:7B:BB ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 88:66:5A:31:7B:BB ManufacturerData Value:
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 5e 1f 2e 6c ec 44 18                       ..^..l.D.       
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0f 02 00 00 0c 0e 00 da f7 f0 27 52 7a 62 c1 3f  ..........'Rzb.?
+  82 ab 39 45                                      ..9E            
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -72
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -76
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 RSSI: -74
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -85
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -77
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001105-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 0000110a-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001112-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001115-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001116-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 0000111f-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 0000112f-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001200-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00001132-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A UUIDs: 00000000-0000-0000-0000-000000000000
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -62
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 48:70:1E:79:B5:F6 RSSI: -90
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -73
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -89
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -79
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 8d 86 af 84 4d e0 a7 03 8e 1d 54 c0 ca  .......M.....T..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -50
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 8e 86 54 9e ae 3f 8a 82 4e 2a af fd 26  .....T..?..N*..&
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 77:04:99:7D:77:02 ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 91 86 9d d4 d6 f4 bf 83 a4 75 f6 1f 58  ............u..X
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 3f 5a f0 c8 97 d1 52 8a 67 31 8c 8d 78  ...?Z....R.g1..x
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 91 86 9d d4 d6 f4 bf 83 a4 75 f6 1f 58  ............u..X
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;92mNEW[0m] Device 48:70:1E:79:B1:CC Nix Pro 2
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 3f 5a f0 c8 97 d1 52 8a 67 31 8c 8d 78  ...?Z....R.g1..x
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -98
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -99
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -59
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 db f7 a8 18 c6 35 12 6a 15 ce 6b 0e ea  ........5.j..k..
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -74
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -88
+[[0;92mNEW[0m] Device CA:B6:82:FB:44:AD Nix Spectro 2
+[[0;92mNEW[0m] Device 7B:5F:6C:17:27:DA 7B-5F-6C-17-27-DA
+[[0;92mNEW[0m] Device 6F:4F:4C:B0:C2:47 6F-4F-4C-B0-C2-47
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;92mNEW[0m] Device 48:70:1E:46:B7:B4 Nix Mini 2
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 16 1f 2e 6c ec 44 58                       .....l.DX       
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 dc f7 ac 93 91 3f fb a8 97 4a 1c da 3f  ........?...J..?
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 94 86 d1 f6 1f c9 bb b8 41 31 8b 19 46  ...........A1..F
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  0c 0e 00 41 5a 62 a9 de 28 56 4e b2 98 c0 da 18  ...AZb..(VN.....
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 94 86 d1 f6 1f c9 bb b8 41 31 8b 19 46  ...........A1..F
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -76
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 41 5a 62 a9 de 28 56 4e b2 98 c0 da 18  ...AZb..(VN.....
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -50
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -68
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -78
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 42 5a ef 86 41 df f7 64 70 1f 6e 8c 0e  ...BZ..A..dp.n..
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 52 1f 2e 6c ec 44 58                       ..R..l.DX       
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -62
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 98 86 d5 a8 8a 21 6e 47 d5 b3 ba 07 29  ........!nG....)
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -96
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 98 86 d5 a8 8a 21 6e 47 d5 b3 ba 07 29  ........!nG....)
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -70
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -54
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 76:87:A5:93:50:BD ManufacturerData Value:
+  10 06 4a 1d 63 18 a0 18                          ..J.c...        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;92mNEW[0m] Device 06:81:99:96:66:A5 06-81-99-96-66-A5
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -68
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -52
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -72
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -80
+[[0;92mNEW[0m] Device 70:88:44:D4:35:A5 70-88-44-D4-35-A5
+[[0;92mNEW[0m] Device 52:B9:B7:AD:12:66 52-B9-B7-AD-12-66
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 99 86 d4 90 a4 ab 13 a0 88 32 19 40 82  ............2.@.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 9a 86 8e c0 52 22 17 a3 bc 8b 2e fa 01  .......R".......
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 45 5a 0f 95 63 5f 9d a0 c8 ed ee 9c 7b  ...EZ..c_......{
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -60
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 9b 86 d0 30 99 4e 35 de fd b0 34 58 b6  ......0.N5...4X.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 RSSI: -80
+[[0;92mNEW[0m] Device 30:45:11:6A:90:67 Nix Pro 2
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 46 5a bb 8a 1d 29 f3 c3 16 a9 01 c9 27  ...FZ...)......'
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 9b 86 d0 30 99 4e 35 de fd b0 34 58 b6  ......0.N5...4X.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 46 5a bb 8a 1d 29 f3 c3 16 a9 01 c9 27  ...FZ...)......'
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -45
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -62
+[[0;93mCHG[0m] Device FB:EE:AA:BB:A2:C4 RSSI: -88
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -51
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -92
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -88
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F TxPower: 0
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F Modalias: usb:v1D6Bp0246d0530
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -62
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 dc f7 ac 93 91 3f fb a8 97 4a 1c da 3f  ........?...J..?
+  10 06 48 1d 1e 6a 8d 58                          ..H..j.X        
+[[0;93mCHG[0m] Device FB:EE:AA:BB:A2:C4 RSSI: -79
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -52
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -87
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 16 1f 2e 6c ec 44 58                       .....l.DX       
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 47 5a 4f c2 cf 64 03 2b 55 31 60 65 66  ...GZO..d.+U1`ef
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 47 5a 4f c2 cf 64 03 2b 55 31 60 65 66  ...GZO..d.+U1`ef
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -57
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -79
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -77
+[[0;92mNEW[0m] Device 34:2E:B7:C7:79:E0 34-2E-B7-C7-79-E0
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 TxPower: 12
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 Name: DESKTOP-R59R4R2
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 Alias: DESKTOP-R59R4R2
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000110a-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000110b-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000111f-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 UUIDs: 0000111e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -66
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -58
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -85
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -50
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 16 1f 2e 6c ec 44 68                       .....l.Dh       
+[[0;93mCHG[0m] Device 52:78:55:CC:1C:08 RSSI: -88
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -72
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -56
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 49 5a 03 eb 30 9f a2 cf 8e 45 21 e1 e2  ...IZ..0....E!..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -90
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 9c 86 c7 54 be cf 15 77 c0 55 e0 c9 93  ......T...w.U...
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 9c 86 c7 54 be cf 15 77 c0 55 e0 c9 93  ......T...w.U...
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -42
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -42
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 4a 5a df 04 69 56 27 cf 58 e6 ec c5 ed  ...JZ..iV'.X....
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 4a 5a df 04 69 56 27 cf 58 e6 ec c5 ed  ...JZ..iV'.X....
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -62
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -62
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -81
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 9d 86 cf b4 d2 c8 b7 ee b4 8b bd 39 99  ..............9.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -50
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -66
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -78
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -52
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -81
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -60
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 ManufacturerData Value:
+  10 06 16 1d f2 4c 24 58                          .....L$X        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -52
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -65
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -66
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: 20
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -92
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -52
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 a1 86 69 09 a2 91 c4 5a 38 49 43 ac 90  .....i....Z8IC..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a1 86 69 09 a2 91 c4 5a 38 49 43 ac 90  .....i....Z8IC..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -75
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -83
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -81
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -59
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -76
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -52
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -84
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -76
+[[0;92mNEW[0m] Device 41:A9:24:A5:2C:BA 41-A9-24-A5-2C-BA
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 53 c8 f1 53 00 90 fa 3b 3d f7 de bb cb  ...S..S...;=....
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -66
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  10 07 52 1f 2e 6c ec 44 68                       ..R..l.Dh       
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  0c 0e 00 fe 03 cc e9 9c c6 a4 ad db aa 72 f4 fb  .............r..
+  10 06 5e 1d 2e 6c ec 08                          ..^..l..        
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -45
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -88
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -76
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -64
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 a2 86 d8 70 d2 50 d6 28 97 3c 96 de 6c  ......p.P.(.<..l
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  0c 0e 00 fe 03 cc e9 9c c6 a4 ad db aa 72 f4 fb  .............r..
+  10 06 5e 1d 2e 6c ec 18                          ..^..l..        
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -61
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -79
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -87
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a2 86 d8 70 d2 50 d6 28 97 3c 96 de 6c  ......p.P.(.<..l
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -54
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -74
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a3 86 a5 ae 48 93 e7 22 19 34 e1 af 56  .......H..".4..V
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -44
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 4d 5a bf 62 fa 8f d5 7a db 02 2c 73 fd  ...MZ.b...z..,s.
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -68
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -71
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 4e 5a 58 f9 95 e5 50 d9 e9 a6 11 d1 7b  ...NZX...P.....{
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a4 86 f9 9d 0d 61 23 07 25 91 83 13 d7  ........a#.%....
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 4f 5a 0b 24 ca 63 ac 57 fe 04 48 b0 de  ...OZ.$.c.W..H..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -71
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -60
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a6 86 e5 1a 2b 5c d7 8b d8 d3 cc b7 a5  .......+\.......
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 50 5a 59 f9 d5 f5 64 da 92 26 92 56 80  ...PZY...d..&.V.
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -57
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 50 5a 59 f9 d5 f5 64 da 92 26 92 56 80  ...PZY...d..&.V.
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -77
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -52
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 a6 86 e5 1a 2b 5c d7 8b d8 d3 cc b7 a5  .......+\.......
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -72
+[[0;93mCHG[0m] Device C0:B5:E0:48:D6:18 RSSI: -91
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -62
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 54 c8 5e 1c f3 33 04 5e e6 a2 a4 30 fb  ...T.^..3.^...0.
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;92mNEW[0m] Device 88:6B:0F:18:C0:9D Nix Pro
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -74
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -61
+[[0;93mCHG[0m] Device C0:B5:E0:48:D6:18 RSSI: -83
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -68
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 51 5a 66 8f 33 59 c8 22 82 98 8e 98 6d  ...QZf.3Y."....m
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 51 5a 66 8f 33 59 c8 22 82 98 8e 98 6d  ...QZf.3Y."....m
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -73
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -54
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 RSSI: -84
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7D:F0:5F:2F:5B:71 ManufacturerData Value:
+  0c 0e 00 02 04 b3 fd 7c 47 50 fd b1 93 10 f7 a7  .......|GP......
+  10 06 16 1d 2e 6c ec 58                          .....l.X        
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -73
+[[0;92mNEW[0m] Device F8:CA:CF:4A:3C:03 Nix Spectro 2
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Value:
+  10 07 69 1f 6f 6c 3e c5 38                       ..i.ol>.8       
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  10 05 0a 18 39 b0 7d                             ....9.}         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -42
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -55
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -66
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -65
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -41
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -92
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -42
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 52 5a 83 88 80 2c 07 26 e0 c4 5f 7c 7d  ...RZ...,.&.._|}
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -63
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -62
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -62
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -89
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -74
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -82
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -62
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -54
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -55
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -50
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Value:
+  10 07 69 1f 6f 6c 3e c1 28                       ..i.ol>.(       
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -79
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 52 5a 83 88 80 2c 07 26 e0 c4 5f 7c 7d  ...RZ...,.&.._|}
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -52
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -64
+[[0;93mCHG[0m] Device CC:0E:95:0A:D9:2E RSSI: -88
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -81
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -74
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 48:70:1E:8B:6E:B0 TxPower: 0
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 52 5a 83 88 80 2c 07 26 e0 c4 5f 7c 7d  ...RZ...,.&.._|}
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -74
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;92mNEW[0m] Device 42:20:DA:C0:D1:E9 42-20-DA-C0-D1-E9
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;92mNEW[0m] Device 4D:EC:52:E6:D8:5B 4D-EC-52-E6-D8-5B
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -65
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -69
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -54
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a7 86 16 db 58 16 3a 03 5a 2d 3d 5f c7  .......X.:.Z-=_.
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -49
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 52 5a 83 88 80 2c 07 26 e0 c4 5f 7c 7d  ...RZ...,.&.._|}
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -51
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -44
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -63
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 08 a8 86 2c 31 7d 22 7e 80 7f 81 7c a7 27  .....,1}"~...|.'
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -51
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -69
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 08 a8 86 2c 31 7d 22 7e 80 7f 81 7c a7 27  .....,1}"~...|.'
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -78
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -70
+[[0;93mCHG[0m] Device 70:88:44:D4:35:A5 TxPower: 7
+[[0;93mCHG[0m] Device 70:88:44:D4:35:A5 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 70:88:44:D4:35:A5 ManufacturerData Value:
+  10 06 38 1a 3b be 92 6e                          ..8.;..n        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 53 5a 64 62 f3 b9 97 d6 08 5d 44 fb 88  ...SZdb.....]D..
+  10 06 4d 1d dd 8d 5c 08                          ..M...\.        
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -72
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 54 5a fc 0b 55 ae db 82 f8 4c 34 8c 0b  ...TZ..U....L4..
+  10 06 4d 1d dd 8d 5c 08                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -54
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -54
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  0c 0e 00 57 c8 5b be 6d 49 08 8c 7b 30 0e 78 48  ...W.[.mI..{0.xH
+  10 06 4b 19 39 b0 7d 80                          ..K.9.}.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device CC:0E:95:0A:D9:2E RSSI: -76
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -92
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 54 5a fc 0b 55 ae db 82 f8 4c 34 8c 0b  ...TZ..U....L4..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 54 5a fc 0b 55 ae db 82 f8 4c 34 8c 0b  ...TZ..U....L4..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -68
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 55 5a f7 25 a4 c7 a3 d3 39 ea dd 7e 24  ...UZ.%....9..~$
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 55 5a f7 25 a4 c7 a3 d3 39 ea dd 7e 24  ...UZ.%....9..~$
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -78
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -70
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -83
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -80
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -61
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -70
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -70
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -81
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -70
+[[0;92mNEW[0m] Device 5F:A6:93:0A:E0:63 5F-A6-93-0A-E0-63
+[[0;93mCHG[0m] Device 6A:49:EE:30:92:5E RSSI: -89
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Value:
+  10 07 65 1f 6f 6c 3e c1 68                       ..e.ol>.h       
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 ManufacturerData Value:
+  10 07 50 1f cb 34 d2 a3 18                       ..P..4...       
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  10 05 0a 18 39 b0 7d                             ....9.}         
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -63
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -43
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Value:
+  10 07 21 1f 6f 6c 3e c1 58                       ..!.ol>.X       
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -59
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 56 5a 8e cc 83 37 38 47 90 ab 6e f8 0c  ...VZ...78G..n..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 56 5a 8e cc 83 37 38 47 90 ab 6e f8 0c  ...VZ...78G..n..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: 20
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -61
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -80
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -82
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 RSSI: -73
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -75
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -50
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -74
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -51
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -78
+[[0;93mCHG[0m] Device 6A:49:EE:30:92:5E RSSI: -81
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -79
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -69
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -80
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 53:B0:52:44:A2:4E ManufacturerData Value:
+  10 06 4a 19 39 b0 7d 80                          ..J.9.}.        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -54
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -89
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -41
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -42
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 59 5a 8d bf 37 ec 85 63 67 8c 4a cf 8f  ...YZ..7..cg.J..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -72
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -49
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -74
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 59 5a 8d bf 37 ec 85 63 67 8c 4a cf 8f  ...YZ..7..cg.J..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 RSSI: -64
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5a 5a e9 f0 c2 98 6c bf a8 03 98 c3 f2  ...ZZ....l......
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 a9 86 9c b9 1c b9 2a ad aa 6a 5e ba 12  .........*..j^..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -57
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -81
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 a9 86 9c b9 1c b9 2a ad aa 6a 5e ba 12  .........*..j^..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -68
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -62
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -66
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -79
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -86
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -60
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5b 5a c4 45 41 72 30 c5 d6 ec 6f 0f ef  ...[Z.EAr0...o..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -62
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 aa 86 3d 1e 2e 45 d4 a1 e3 8b ae 06 c5  .....=..E.......
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 aa 86 3d 1e 2e 45 d4 a1 e3 8b ae 06 c5  .....=..E.......
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5c 5a c7 dd f2 7d 0b 2f 99 ac 7a 8e 5b  ...\Z...}./..z.[
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -72
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 RSSI: -74
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 RSSI: -83
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -57
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -78
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5e 5a 05 27 9b e2 7d cc 06 92 15 f0 34  ...^Z.'..}.....4
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 5e 5a 05 27 9b e2 7d cc 06 92 15 f0 34  ...^Z.'..}.....4
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -74
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -87
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -87
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -73
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  0c 0e 00 ab 86 57 0b 31 ed 1c 0b 30 31 78 01 b6  .....W.1...01x..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -68
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  0c 0e 00 ab 86 57 0b 31 ed 1c 0b 30 31 78 01 b6  .....W.1...01x..
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -86
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -72
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -49
+[[0;92mNEW[0m] Device C4:BF:42:39:03:01 Nix Mini 3
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -56
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -60
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device CC:0E:95:0A:D9:2E RSSI: -86
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;92mNEW[0m] Device 58:E7:45:B7:DF:51 58-E7-45-B7-DF-51
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -46
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -53
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -79
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -60
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5f 5a 59 21 ce 57 bb e8 09 43 34 f7 a4  ..._ZY!.W...C4..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -49
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 RSSI: -89
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 e9 f7 59 9f de 7a 98 84 09 09 9f 26 59  .....Y..z.....&Y
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -48
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -69
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -58
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -68
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -49
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 ManufacturerData Value:
+  10 07 50 1f cb 34 d2 a7 18                       ..P..4...       
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -63
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -79
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -57
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -65
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -77
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -56
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -50
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -62
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -61
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 64:3D:AA:BC:6B:2A 64-3D-AA-BC-6B-2A
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -51
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -88
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -60
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -65
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -76
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 5f 5a 59 21 ce 57 bb e8 09 43 34 f7 a4  ..._ZY!.W...C4..
+  10 06 4d 1d dd 8d 5c 18                          ..M...\.        
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -52
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: 20
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -100
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -59
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 5f 5a 59 21 ce 57 bb e8 09 43 34 f7 a4  ..._ZY!.W...C4..
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -48
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -77
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -85
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -80
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -84
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 42 1c 1a 89 57                             ..B...W         
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -78
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  0c 0e 00 5f 5a 59 21 ce 57 bb e8 09 43 34 f7 a4  ..._ZY!.W...C4..
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 RSSI: -88
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:FE:03:00:40:97 ManufacturerData Value:
+  10 07 69 1f 6f 6c 3e c5 28                       ..i.ol>.(       
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -79
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -68
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -71
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -72
+[[0;92mNEW[0m] Device 0B:80:FF:6A:55:FE 0B-80-FF-6A-55-FE
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -82
+[[0;93mCHG[0m] Device C4:66:7A:5B:DB:1E RSSI: -77
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -61
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 7A:EE:AC:C1:91:06 RSSI: -75
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 ec f7 da 96 99 40 b5 14 80 85 9b d7 f3  ........@.......
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -78
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;92mNEW[0m] Device 06:0A:17:B5:38:87 06-0A-17-B5-38-87
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -77
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 42 1c 1a 89 57                             ..B...W         
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -59
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -78
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -49
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -85
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -54
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -49
+[[0;93mCHG[0m] Device 6A:49:EE:30:92:5E RSSI: -72
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -52
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 ManufacturerData Value:
+  10 06 56 1d f2 4c 24 58                          ..V..L$X        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -78
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -62
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -76
+[[0;92mNEW[0m] Device 7C:8A:F7:4F:F4:34 7C-8A-F7-4F-F4-34
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -41
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -76
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -76
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -97
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -48
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -69
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 ManufacturerData Value:
+  10 05 4e 1c 1a 89 57                             ..N...W         
+[[0;93mCHG[0m] Device 5A:9A:C6:FF:3A:53 RSSI: -77
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -66
+[[0;92mNEW[0m] Device 43:B5:20:DA:2F:68 43-B5-20-DA-2F-68
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -66
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -67
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -88
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -58
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -69
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -72
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -49
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -74
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -83
+[[0;93mCHG[0m] Device 43:B5:20:DA:2F:68 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 43:B5:20:DA:2F:68 ManufacturerData Value:
+  10 06 56 1d 76 48 5b a8                          ..V.vH[.        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -75
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -84
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -76
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -74
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -54
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 60 5a a8 65 cb a8 e6 b3 89 61 7f d9 31  ...`Z.e.....a..1
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -65
+[[0;92mNEW[0m] Device 58:2C:35:80:36:74 58-2C-35-80-36-74
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 08 ed f7 7a 44 74 05 24 15 67 53 a9 32 30  .....zDt.$.gS.20
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -84
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -84
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -78
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -65
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -93
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -84
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: 20
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -84
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -50
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  10 06 41 1d dd 8d 5c 58                          ..A...\X        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 90:E2:02:9C:36:0C RSSI: -90
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 08 ee f7 31 ab 72 5a 2a 06 17 60 b1 cd 35  .....1.rZ*..`..5
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 6F:F9:5A:1E:13:BF RSSI: -90
+[[0;92mNEW[0m] Device 4A:5D:54:AA:FB:1F 4A-5D-54-AA-FB-1F
+[[0;92mNEW[0m] Device 4D:1F:23:89:7B:7C 4D-1F-23-89-7B-7C
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 08 ef f7 8f 21 45 29 8e fb 47 b3 e1 97 ac  ......!E)..G....
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -82
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device CC:0E:95:0A:D9:2E RSSI: -77
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -74
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -81
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -81
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -78
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -75
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -88
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -77
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -59
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 34:2E:B7:C7:79:E0 RSSI: -51
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -88
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -65
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -60
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: 20
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C TxPower: 12
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Value:
+  10 07 15 1f 1b 66 fd 84 28                       .....f..(       
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -70
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -61
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -76
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -78
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 RSSI: -81
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -68
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -75
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device E8:5A:8B:88:84:9A RSSI: -79
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -77
+[[0;93mCHG[0m] Device 75:62:42:95:15:36 RSSI: -62
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -66
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;92mNEW[0m] Device 6A:3E:47:F8:7A:81 6A-3E-47-F8-7A-81
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -76
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;92mNEW[0m] Device 5A:90:01:F6:4B:DD 5A-90-01-F6-4B-DD
+[[0;92mNEW[0m] Device 43:77:61:F4:A0:26 43-77-61-F4-A0-26
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C RSSI: -62
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -84
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -58
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -77
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -56
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -77
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -69
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -73
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -74
+[[0;92mNEW[0m] Device 5B:59:4D:36:B2:CD 5B-59-4D-36-B2-CD
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 RSSI: -68
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 TxPower: 24
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 ManufacturerData Value:
+  0c 0e 00 14 9c c0 22 a8 b3 77 a1 b0 f5 81 67 18  ......"..w....g.
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -70
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 RSSI: -80
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 RSSI: -66
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C RSSI: -83
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -89
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA RSSI: -78
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;92mNEW[0m] Device 4B:E0:FF:02:28:D6 4B-E0-FF-02-28-D6
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -50
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -54
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA RSSI: -89
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  0f 02 00 00 10 07 40 1f 09 46 41 ad 28           ......@..FA.(   
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -56
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -97
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -62
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -58
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -84
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -73
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -65
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -70
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -46
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -72
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -62
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 f1 f7 8b 44 8b 36 91 b9 96 9b 28 b6 ca  ......D.6....(..
+  10 06 48 1d 1e 6a 8d 38                          ..H..j.8        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -74
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -48
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -47
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -62
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Value:
+  10 07 51 1f 1b 66 fd 84 28                       ..Q..f..(       
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -58
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -67
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 6F:DB:E8:09:38:07 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 6F:DB:E8:09:38:07 ManufacturerData Value:
+  10 05 30 18 89 1b b8                             ..0....         
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device E0:F1:A5:1C:9D:B5 RSSI: -77
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -58
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -85
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -64
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 ManufacturerData Value:
+  10 05 09 18 3d 0b ab                             ....=..         
+[[0;92mNEW[0m] Device 74:C9:0A:62:74:99 74-C9-0A-62-74-99
+[[0;93mCHG[0m] Device 6A:3E:47:F8:7A:81 RSSI: -79
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -86
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -70
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -84
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F UUIDs: 0000110e-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F UUIDs: 0000110c-0000-1000-8000-00805f9b34fb
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F UUIDs: cfc05eac-8c6c-4eea-9ecd-905f9aebe91c
+[[0;93mCHG[0m] Device D0:C0:BF:B3:B5:2F ManufacturerData Key: 0x0001
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -58
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -58
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -76
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 RSSI: -50
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 88:6B:0F:18:C0:9D RSSI: -79
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -74
+[[0;92mNEW[0m] Device 73:21:D8:52:38:F7 73-21-D8-52-38-F7
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Value:
+  10 06 66 1e a7 d1 15 45                          ..f....E        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device 06:81:99:96:66:A5 RSSI: -49
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -50
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 61 78 79 20 41 35 31 00 00 00 00 00 00 00  ..axy A51.......
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -75
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Value:
+  10 06 27 1e a7 d1 15 41                          ..'....A        
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  10 07 40 1f 09 46 41 ad 38                       ..@..FA.8       
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;92mNEW[0m] Device EF:4F:FA:2E:3C:DA Nix Mini 3
+[[0;93mCHG[0m] Device E2:91:E3:68:B3:AE RSSI: -77
+[[0;92mNEW[0m] Device B8:31:B5:81:0A:9D B8-31-B5-81-0A-9D
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Value:
+  10 07 15 1f 1b 66 fd 84 28                       .....f..(       
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -70
+[[0;93mCHG[0m] Device B8:31:B5:81:0A:9D Name: DESKTOP-K77URSG
+[[0;93mCHG[0m] Device B8:31:B5:81:0A:9D Alias: DESKTOP-K77URSG
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -64
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -70
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -77
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -73
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Value:
+  10 07 68 1f e1 93 e9 05 b8                       ..h......       
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -64
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 41:A9:24:A5:2C:BA ManufacturerData Value:
+  01 12 1c 39 d2 d9 00 00 00 00 02 74 e2 53 4d 01  ...9.......t.SM.
+  01 56 27 73 20 47 61 6c                          .V's Gal        
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -51
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -95
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Value:
+  10 07 51 1f 1b 66 fd 84 28                       ..Q..f..(       
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -61
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 52:B9:B7:AD:12:66 ManufacturerData Value:
+  10 06 07 19 dd 8d 5c 58                          ......\X        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -73
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -87
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -73
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  10 06 07 19 dd 8d 5c 58                          ......\X        
+[[0;92mNEW[0m] Device 73:7A:6E:E2:04:49 73-7A-6E-E2-04-49
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 17 3a 80 c9 00 00 00 00 02 d4 ec 6c 90 01  ...:.........l..
+  01 4c 65 77 69 73 27 73                          .Lewis's        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -61
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 TxPower: 9
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 f2 f7 15 37 78 af 38 52 b0 7c 9b 33 f1  ......7x.8R.|.3.
+  10 06 48 1d 1e 6a 8d 38                          ..H..j.8        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -63
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -74
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -49
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -75
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C RSSI: -74
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4D:1F:23:89:7B:7C ManufacturerData Value:
+  10 07 15 1f 1b 66 fd 80 28                       .....f..(       
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -60
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Value:
+  10 07 20 1f e1 93 e9 05 38                       .. .....8       
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -39
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -82
+[[0;93mCHG[0m] Device CC:0E:95:0A:D9:2E RSSI: -87
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -62
+[[0;93mCHG[0m] Device 48:70:1E:79:B5:C2 TxPower: 0
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -76
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -72
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  10 07 08 1f 09 46 41 ad 78                       .....FA.x       
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -86
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 f3 f7 91 cc 7a b7 c5 f0 e4 fa f4 7b d9  .......z......{.
+  10 06 44 1d 1e 6a 8d 68                          ..D..j.h        
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -75
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 TxPower: 8
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Value:
+  10 07 20 1f e1 93 e9 01 38                       .. .....8       
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 f4 f7 05 d2 61 61 dd a5 ca 37 df c9 63  .......aa...7..c
+  10 06 44 1d 1e 6a 8d 68                          ..D..j.h        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -76
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -60
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -62
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F ManufacturerData Value:
+  10 06 27 1e a7 d1 15 4d                          ..'....M        
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -62
+[[0;93mCHG[0m] Device 72:AD:2A:CE:35:B8 RSSI: -63
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 5A:90:01:F6:4B:DD RSSI: -64
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -94
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Value:
+  10 07 64 1f e1 93 e9 01 b8                       ..d......       
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -70
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -49
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 55:4E:A7:A2:B9:43 ManufacturerData Value:
+  0c 0e 00 f5 f7 67 84 fe c1 07 79 8c ac 57 0f 6b  .....g....y..W.k
+  10 06 44 1d 1e 6a 8d 78                          ..D..j.x        
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -85
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -38
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -46
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -71
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -38
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -50
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 TxPower: 9
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 ManufacturerData Value:
+  10 07 20 1f e1 93 e9 01 38                       .. .....8       
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -39
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -62
+[[0;93mCHG[0m] Device F7:63:34:27:90:BB RSSI: -75
+[[0;93mCHG[0m] Device 4A:5D:54:AA:FB:1F RSSI: -56
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -80
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -65
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 6F:F9:5A:1E:13:BF RSSI: -82
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -52
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -75
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -40
+[[0;93mCHG[0m] Device 10:52:1C:74:81:4E RSSI: -86
+[[0;92mNEW[0m] Device 1B:A3:F8:78:A9:E9 1B-A3-F8-78-A9-E9
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -67
+[[0;93mCHG[0m] Device 78:E3:6D:0A:7E:16 RSSI: -48
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA RSSI: -73
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Key: 0x0075
+[[0;93mCHG[0m] Device 7B:5F:6C:17:27:DA ManufacturerData Value:
+  01 12 20 53 32 31 20 55 6c 74 72 61 00 00 00 00  .. S21 Ultra....
+  00 00 00 00 00 00 00 00 00 00 00                 ...........     
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 61 5a 3e bc 8e ff 28 ed 9d 52 7f 6d 73  ...aZ>...(..R.ms
+  10 06 4e 1d 89 88 96 78                          ..N....x        
+[[0;92mNEW[0m] Device 44:9C:70:ED:E1:4E 44-9C-70-ED-E1-4E
+[[0;93mCHG[0m] Device 73:21:D8:52:38:F7 RSSI: -58
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -81
+[[0;93mCHG[0m] Device 02:55:83:43:EE:84 RSSI: -70
+[[0;93mCHG[0m] Device AC:D5:64:6A:31:F4 RSSI: -85
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -80
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 ManufacturerData Value:
+  0c 0e 00 62 5a 4d 86 88 69 a3 0b 41 fa 26 4c 78  ...bZM..i..A.&Lx
+  10 06 4e 1d 89 88 96 68                          ..N....h        
+[[0;93mCHG[0m] Device 44:9C:70:ED:E1:4E ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 44:9C:70:ED:E1:4E ManufacturerData Value:
+  0c 0e 00 62 5a 4d 86 88 69 a3 0b 41 fa 26 4c 78  ...bZM..i..A.&Lx
+  10 06 4e 1d 89 88 96 68                          ..N....h        
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -63
+[[0;93mCHG[0m] Device F8:4D:89:5E:21:12 RSSI: -41
+[[0;93mCHG[0m] Device CC:98:8B:C1:D9:4B RSSI: -59
+[[0;93mCHG[0m] Device 5F:A6:93:0A:E0:63 RSSI: -72
+[[0;93mCHG[0m] Device 44:9C:70:ED:E1:4E RSSI: -53
+[[0;93mCHG[0m] Device 44:9C:70:ED:E1:4E RSSI: -42
+[[0;93mCHG[0m] Device F0:B3:EC:73:67:28 RSSI: -79
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Key: 0x004c
+[[0;93mCHG[0m] Device 41:25:19:BF:A9:58 ManufacturerData Value:
+  10 07 40 1f 09 46 41 a9 38                       ..@..FA.8       
